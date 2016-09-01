@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="almost_white">#ecf7fb</color>
+    <color name="almost_black">#5e3f38</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    
+    <color name="home_tab_bg_normal">#9BA4AA</color>
+    <color name="home_tab_bg_focus">#F96A48</color>
+    <color name="title_bg">#2BA9E1</color>
+    <color name="subtitle_bg">#D6D8E4</color>
+    <color name="subhead_bg">#2A3235</color>
+    <color name="common_bg">#D4D4CC</color>
+    <color name="edittext_bg_normal">#4B5359</color>
+    <color name="edittext_bg_focus">#2A3235</color>
+    
+    <color name="bottom_bar_bg">#2A3235</color>
+    <color name="bottom_bar_font_color">#4B5359</color>
+    
+    <color name="list_item_pop_with_title_bg_normal">#D6D8E4</color>
+    <color name="list_item_pop_with_title_bg_focus">#2BA9E1</color>
+    
+    <color name="actionbar_title_color">#ffffffff</color>
+    <color name="red">#ffff0000</color>
+    <color name="blue">#ff5c869e</color>
+    <color name="green">#7700ff00</color>
+    <color name="yellow">#ffff7000</color>
+    <color name="dark_black">#ff333333</color>
+    <color name="screen_background_white">#00ffffff</color>
+    <color name="translucent_background">#80000000</color>
+    <color name="white_background">#00ffffff</color>
+    <color name="gray_background">#ffececec</color>
+    <color name="deep_black">#ff323232</color>
+    <color name="solid_red">#ffff0000</color>
+    <color name="solid_while">#ff888888</color>
+    <color name="solid_saffron">#ffff6414</color>
+    <color name="solid_blue">#ff0000ff</color>
+    <color name="solid_green">#ff00ff00</color>
+    <color name="solid_yellow">#ffffff00</color>
+    <color name="saffron">#ffffa649</color>
+    <color name="titlebackgroundcolor">#fffe8625</color>
+    <color name="listitem_divide">#ffd4d3d3</color>
+    <color name="gray">#ff666664</color>
+    <color name="deep_gray">#ff323232</color>
+    <color name="light_gray">#ff948b7e</color>
+    <color name="btn_focused_color_yellow">#fffdfdfd</color>
+    <color name="btn_pressed_color_light">#fffdfdfd</color>
+    <color name="btn_default_color_light">#ffff5f11</color>
+    <color name="rounded_container_border">#ffb7babb</color>
+    <color name="base_start_color_default">#ffffffff</color>
+    <color name="base_end_color_default">#ffffffff</color>
+    <color name="base_start_color_pressed">#ffff7a13</color>
+    <color name="base_center_color_pressed">#ffff8c2f</color>
+    <color name="base_end_color_pressed">#ffffa254</color>
+    <color name="text_color_default">#ff000000</color>
+    <color name="text_color_pressed">#ffffffff</color>
+    <color name="yellow_1">#ffff6501</color>
+    <color name="yellow_2">#ffff9248</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="deep_yellow">#fff76b36</color>
+    <color name="item_click_top">#fff29202</color>
+    <color name="item_click_bottom">#ffe69306</color>
+    <color name="title_pressed_color">#ffbfbfbf</color>
+    <color name="orange">#ffff9c00</color>
+    <color name="filter_divider">#ffbbbab7</color>
+    <color name="light_orange">#fff06e14</color>
+    <color name="more_gray">#ffbfb9b0</color>
+    <color name="orange_red">#ffe84200</color>
+    <color name="alpha_black">#aa000000</color>
+</resources>

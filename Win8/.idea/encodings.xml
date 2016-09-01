@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/win8remote/src/main/java/com/yyx/win8remote/GestureRecognizer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote/src/main/java/com/yyx/win8remote/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote/src/main/java/com/yyx/win8remote/Remote.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote/src/main/java/com/yyx/win8remote/SideEffectInterface.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote/src/main/java/com/yyx/win8remote/VoiceSearch.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/Agent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/AllAppMenuHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/CharmsMenuHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/CloseAppHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/CommandHandlerInterface.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/ControlPanelHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/DesktopHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/KeyContextMenuHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/KeyDownHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/KeyEnterHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/KeyEscapeHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/KeyLeftHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/KeyRightHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/KeyShiftTabHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/KeyTabHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/KeyUpHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/KeyWindowsHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/MouseLeftClickHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/MouseMoveHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/MouseRightClickHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/Preprocessor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/SettingHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/SystemHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/TaskListHoldingHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8agent/VoiceSearchHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8common/Config.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8common/Helper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8common/PacketFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win8remote_common/src/main/java/com/yyx/win8common/Protocol.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zscustomui/src/main/java/cn/mr/ams/android/app/ActionBarActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zscustomui/src/main/java/cn/mr/ams/android/app/BaseAmsActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zscustomui/src/main/java/cn/mr/ams/android/app/GlobalAmsApplication.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zscustomui/src/main/java/cn/mr/ams/android/ui/AppMemory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zscustomui/src/main/java/cn/mr/ams/android/ui/LoginActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zscustomui/src/main/java/cn/mr/ams/android/ui/MemoryManagerActivity.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

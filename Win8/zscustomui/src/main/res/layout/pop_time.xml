@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    <RadioGroup 
+     	    android:id="@+id/pop_time_tab"
+     	    android:background="@color/home_tab_bg_normal"
+     	    android:orientation="vertical"
+     	    android:layout_width="wrap_content"
+     	    android:layout_height="wrap_content"
+     	    android:gravity="center"
+     	    android:layout_gravity="bottom"
+     	    android:layout_margin="10dp">
+     	    <RadioButton 
+     	        android:id="@+id/btn_time_last"
+     	        android:text="@string/time_last"
+     	        android:drawableLeft="@drawable/bg_bt_pop_radio"
+     	        android:paddingTop="5dp"
+     	        android:paddingBottom="5dp"
+     	        android:paddingLeft="20dp"
+     	        android:paddingRight="20dp"
+     	        style="@style/pop_tab_style"/>
+     	    <RadioButton 
+     	        android:id="@+id/btn_time_old"
+     	        android:text="@string/time_old"
+     	        android:drawableLeft="@drawable/bg_bt_pop_radio"
+     	        android:paddingTop="5dp"
+     	        android:paddingBottom="5dp"
+     	        android:paddingLeft="20dp"
+     	        android:paddingRight="20dp"
+     	        style="@style/pop_tab_style"/>
+    </RadioGroup>
+</LinearLayout>

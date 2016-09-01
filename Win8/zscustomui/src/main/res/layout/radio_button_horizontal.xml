@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:drawableTop="@drawable/icon_subtitle_transparent"
+    android:textSize="@dimen/text_normal_size"
+    android:textColor="@color/white"
+    android:ellipsize="marquee"
+    android:gravity="center_horizontal"
+    android:background="@drawable/bg_bt_pop"
+    android:paddingTop="@dimen/pop_tab_padding"
+    android:paddingBottom="@dimen/pop_tab_padding"
+    android:button="@null"
+    android:singleLine="true"
+    android:drawablePadding="@dimen/pop_tab_drawable_padding"
+    android:layout_weight="1.0">
+
+</RadioButton>

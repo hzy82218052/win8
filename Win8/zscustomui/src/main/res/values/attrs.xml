@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="AmsAttr" >
+        <attr name="textColor" format="color" />
+        <attr name="textSize" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="subTitleAttr">
+        <attr name="subTitleBackgroundColor" format="reference"></attr>
+        <attr name="subTitlePopBackgroudColor" format="reference"></attr>
+    </declare-styleable>
+    <declare-styleable name="CustomSpinnerAttr">
+        <attr name="CustomSpinnerStyle" format="reference"></attr>
+        <attr name="buttonTextColor" format="reference"></attr>
+        <attr name="itemTextColor" format="reference"></attr>
+        <attr name="buttonBackgroundDrawable" format="reference"></attr>
+        <attr name="itemBackgroundDrawable" format="reference"></attr>
+        <attr name="contents" format="reference"></attr>
+    </declare-styleable>
+</resources>

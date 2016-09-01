@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/edittext_bg_focus"
+    >
+<TextView  
+	android:id="@+id/tv_pop_list_item"
+	android:gravity="center_vertical"
+	android:textSize="@dimen/edittext_font_size"
+	android:textColor="@color/white"
+    android:layout_width="fill_parent" 
+    android:layout_height="@dimen/edittext_height" 
+    android:layout_gravity="left|center"
+    android:paddingLeft="10dp"
+    android:text="PopWindow!!!"
+    />
+</LinearLayout>

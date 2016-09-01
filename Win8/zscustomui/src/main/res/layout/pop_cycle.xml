@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+    
+    <RadioGroup 
+     	    android:id="@+id/pop_cycle_tab"
+     	    android:background="@color/home_tab_bg_normal"
+     	    android:orientation="horizontal"
+     	    android:layout_width="fill_parent"
+     	    android:layout_height="wrap_content"
+     	    android:gravity="center_vertical"
+     	    android:layout_gravity="bottom"
+     	    android:layout_margin="10dp">
+     	    <RadioButton 
+     	        android:id="@+id/btn_cycle_day"
+     	        android:text="@string/cycle_day"
+     	        android:drawableTop="@drawable/bg_bt_pop_radio"
+     	        style="@style/pop_tab_style"/>
+     	    <RadioButton 
+     	        android:id="@+id/btn_cycle_week"
+     	        android:text="@string/cycle_week"
+     	        android:drawableTop="@drawable/bg_bt_pop_radio"
+     	        style="@style/pop_tab_style"/>
+     	    <RadioButton 
+     	        android:id="@+id/btn_cycle_half_month"
+     	        android:text="@string/cycle_half_month"
+     	        android:drawableTop="@drawable/bg_bt_pop_radio"
+     	        style="@style/pop_tab_style"/>
+     	    <RadioButton 
+     	        android:id="@+id/btn_cycle_month"
+     	        android:text="@string/cycle_month"
+     	        android:drawableTop="@drawable/bg_bt_pop_radio"
+     	        style="@style/pop_tab_style"/>
+     	    <RadioButton 
+     	        android:id="@+id/btn_cycle_half_year"
+     	        android:text="@string/cycle_half_year"
+     	        android:drawableTop="@drawable/bg_bt_pop_radio"
+     	        style="@style/pop_tab_style"/>
+     	    <RadioButton 
+     	        android:id="@+id/btn_cycle_year"
+     	        android:text="@string/cycle_year"
+     	        android:drawableTop="@drawable/bg_bt_pop_radio"
+     	        style="@style/pop_tab_style"/>
+     	</RadioGroup>
+</LinearLayout>

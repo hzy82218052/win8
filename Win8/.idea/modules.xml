@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Win8.iml" filepath="$PROJECT_DIR$/Win8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metromain/metromain.iml" filepath="$PROJECT_DIR$/metromain/metromain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycler/recycler.iml" filepath="$PROJECT_DIR$/recycler/recycler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/win8remote/win8remote.iml" filepath="$PROJECT_DIR$/win8remote/win8remote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/win8remote_common/win8remote_common.iml" filepath="$PROJECT_DIR$/win8remote_common/win8remote_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/win8view/win8view.iml" filepath="$PROJECT_DIR$/win8view/win8view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/win8view0/win8view0.iml" filepath="$PROJECT_DIR$/win8view0/win8view0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/win8view2/win8view2.iml" filepath="$PROJECT_DIR$/win8view2/win8view2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zscustomui/zscustomui.iml" filepath="$PROJECT_DIR$/zscustomui/zscustomui.iml" />
+    </modules>
+  </component>
+</project>

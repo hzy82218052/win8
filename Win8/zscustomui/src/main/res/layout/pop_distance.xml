@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+    
+    <RadioGroup 
+     	    android:id="@+id/pop_distance_tab"
+     	    android:background="@color/home_tab_bg_normal"
+     	    android:orientation="horizontal"
+     	    android:layout_width="fill_parent"
+     	    android:layout_height="wrap_content"
+     	    android:gravity="center_vertical"
+     	    android:layout_gravity="bottom"
+     	    android:layout_margin="10dp">
+     	    <RadioButton 
+     	        android:id="@+id/btn_distance_five_hm"
+     	        android:text="@string/distance_five_hm"
+     	        android:drawableTop="@drawable/bg_bt_pop_radio"
+     	        style="@style/pop_tab_style"/>
+     	    <RadioButton 
+     	        android:id="@+id/btn_distance_one_km"
+     	        android:text="@string/distance_one_km"
+     	        android:drawableTop="@drawable/bg_bt_pop_radio"
+     	        style="@style/pop_tab_style"/>
+     	    <RadioButton 
+     	        android:id="@+id/btn_distance_two_km"
+     	        android:text="@string/distance_two_km"
+     	        android:drawableTop="@drawable/bg_bt_pop_radio"
+     	        style="@style/pop_tab_style"/>
+     	    <RadioButton 
+     	        android:id="@+id/btn_distance_five_km"
+     	        android:text="@string/distance_five_km"
+     	        android:drawableTop="@drawable/bg_bt_pop_radio"
+     	        style="@style/pop_tab_style"/>
+     	    <RadioButton 
+     	        android:id="@+id/btn_distance_full_city"
+     	        android:text="@string/distance_full_city"
+     	        android:drawableTop="@drawable/bg_bt_pop_radio"
+     	        style="@style/pop_tab_style"/>
+     	</RadioGroup>
+</LinearLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+   <RadioGroup 
+     	android:id="@+id/spinner_radio_group"
+     	android:orientation="horizontal"
+     	android:layout_width="fill_parent"
+     	android:layout_height="wrap_content"
+     	android:gravity="center_vertical"
+     	android:background="@drawable/bg_spinner"
+     	android:layout_gravity="bottom">
+	    <RadioButton 
+	     	android:id="@+id/spinner_radiobutton"
+	     	android:drawableRight="@drawable/bg_bt_subtitle_flag"
+	     	android:text="91903910919010"
+	        android:textSize="@dimen/text_normal_size"
+	        android:textColor="@color/white"
+	        android:ellipsize="marquee"
+	        android:background="@drawable/bg_spinner"
+	        android:paddingLeft="@dimen/view_interval_space_small"
+	        android:paddingRight="@dimen/view_interval_space_small"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:button="@null"
+	        android:singleLine="true"
+	        android:layout_weight="1.0"/>
+	</RadioGroup>
+</LinearLayout>

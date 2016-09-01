@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/bottom_bar_bg"
+    android:orientation="horizontal" >
+    
+    <RadioGroup 
+     	    android:id="@+id/subtitle_radio_group"
+     	    android:background="@color/home_tab_bg_normal"
+     	    android:orientation="horizontal"
+     	    android:layout_width="fill_parent"
+     	    android:layout_height="wrap_content"
+     	    android:gravity="center_vertical"
+     	    android:layout_gravity="bottom">
+     	    <RadioButton 
+     	        android:id="@+id/subtitle_left_bt"
+     	        android:tag="@string/distance"
+     	        android:drawableRight="@drawable/bg_bt_subtitle_flag"
+     	        style="@style/subtitle_tab_style"/>
+     	    <RadioButton 
+     	        android:id="@+id/subtitle_center_bt"
+     	        android:tag="@string/time"
+     	        android:drawableRight="@drawable/bg_bt_subtitle_flag"
+     	        style="@style/subtitle_tab_style"/>
+     	    <RadioButton 
+     	        android:id="@+id/subtitle_right_bt"
+     	        android:tag="@string/cycle"
+     	        android:drawableRight="@drawable/bg_bt_subtitle_flag"
+     	        style="@style/subtitle_tab_style"/>
+     	</RadioGroup>
+</LinearLayout>
